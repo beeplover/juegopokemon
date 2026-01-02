@@ -19,12 +19,10 @@ SuperRod
 #-------------------------------
 [005] # Ruta 1
 Land,21
-    40,PIDGEY,11,14
-    40,RATTATA,11,14
-    9,PIDGEY,11,13
-    9,RATTATA,11,13
-    1,PIDGEY,14
-    1,RATTATA,14
+    33,STARLY,3,5
+    33,CATERPIE,3,5
+    33,ZIGZAGOON,3,5
+    1,PIKACHU,3,5
 LandNight,21
     39,RATTATA,10,14
     30,HOOTHOOT,10,13
@@ -50,10 +48,14 @@ LandNight,21
 #-------------------------------
 [021] # Ruta 2
 Land,21
-    50,RATTATA,12,15
-    30,POOCHYENA,11,15
-    10,SHINX,10,11
-    10,SHINX,10,12
+   22,STARLY,6,7
+   22,CATERPIE,6,7
+   22,ZIGZAGOON,6,7
+   1,PIKACHU,6,7
+   11,FLETVHLING,6,7
+   11,RATATA,6,7
+   11,SEWADDLE,6,7
+   
 Water,2
     60,MAGIKARP,7,10
     30,GOLDEEN,11,14
@@ -120,11 +122,17 @@ PokeRadar,40
 #-------------------------------
 [031] # Ruta 3
 Land,21
-    30,NIDORANfE,12,15
-    30,NIDORANmA,12,15
-    20,PIKACHU,14,17
-    10,EEVEE,15
-    10,PONYTA,13,15
+   6,STARLY,6,7
+   6,CATERPIE,6,7
+   6,ZIGZAGOON,6,7
+   1,PIKACHU,6,7
+   16,FLETVHLING,6,7
+   16,RATATA,6,7
+   16,SEWADDLE,6,7
+   11,ROOKIDEE,6,7
+   11,CUTIEFLY,6,7
+   11,BIDOOF,6,7
+   
 Water,2
     60,SURSKIT,13,14
     35,LOTAD,14
